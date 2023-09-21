@@ -1,2 +1,5 @@
 hello github
 I am learning DevOps!!!
+git remote add origin https://github.com/312-bc/class23c-demo-repo.git
+git branch -M main
+git push -u origin main
